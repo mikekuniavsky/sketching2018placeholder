@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+July 27-29, with an (optional) in-depth one-day charrette* July 30
+Cobo Hall
+Detroit, Michigan
 
-You can use the [editor on GitHub](https://github.com/mikekuniavsky/sketching2018placeholder/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please RSVP to: rsvp@sketching-in-hardware.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The final price for the event is not yet determined, but I expect it to be $750 with discounts up to 100% for students, teachers, startup founders, artists and independent practitioners (please inquire).
 
-### Markdown
+To grow the Sketching community while maintaining a size that allows everyone to present (in some form), I invite all past Sketching participants who plan to attend in 2018 to invite TWO other people. Please feel free to forward this email to them, and they must mention your name in their RSVP.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"Sketching in Hardware: a summit on the design and use of physical computing toolkits"
 
-```markdown
-Syntax highlighted code block
+2018 Theme: The New Machine Age
 
-# Header 1
-## Header 2
-### Header 3
+The explosion of possibility created by digital technology today is perhaps only equalled by the postwar material science explosion in terms of its ability to directly affect the physical world. As the 1950s and 60s gave us Tupperware and metal replacement hips, today we have digitally-augmented wood routers, CAD tools that anticipate and correct for errors, sensor-enabled logistics chains, and robots that etch musical grooves into frozen lakes (cf Kazuhiro Jo’s Sketching presentation last year). The wisdom of lifetimes of expertise can now be algorithmically distilled, extended and embedded invisibly in everyday physical objects that not longer have the obvious historical boundaries of computing devices. 
 
-- Bulleted
-- List
+What are the tools we’re need to build for this world? What are the creative and technical possibilities? What are the warnings we should be heeding?
 
-1. Numbered
-2. List
+As in past years, sketching will still primarily focus on tools for physical computing/Internet of Things prototyping. I expect to talk about how to make hardware more accessible, how to make our tools better, how to use them in more interesting ways, and how to teach with them.
 
-**Bold** and _Italic_ and `Code` text
+The meeting will include presentations by all attendees, new technologies to try, and many opportunities to meet others and talk about this emerging field.
 
-[Link](url) and ![Image](src)
-```
+There will be onsite childcare.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikekuniavsky/sketching2018placeholder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*charrette is a term I’m borrowing from architecture as an alternative to “hackathon.” I plan for it to be similar to a hackathon, but with a tighter focus.
